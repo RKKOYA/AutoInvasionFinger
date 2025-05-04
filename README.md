@@ -2,7 +2,7 @@
 Are you tired of fingering the controller or keyboard 20 times to find an invasion just to get fog-walled or blended right back into doing the same, monotonous task until your madness meter maxes out? AutoInvasionFinger is a AHK 2.0 script that attempts to solve that problem by automating the invasion search so that you may find better things to do.
 
 ## How it Works
-The script sends keystrokes without you having to actually press buttons or keys. An invasion may take up to 20 attempts of using the bloody finger or recursant finger. That is 180 + 200 button/key presses to invaded 20 times using the bloody and recursant fingers, respectively. That's approximately 2 minutes of doing the same thing just to either have a disconnect, fog-wall, or 30 second gank.
+The script sends keystrokes without you having to actually press buttons or keys. An invasion may take up to 20 attempts of using the bloody finger or recursant finger. That is 180 + 200 button/key presses to invad 20 times using the bloody and recursant fingers, respectively assuming that the fingers are used from the multiplayer menu. That's approximately 2 minutes of doing the same thing just to either have a disconnect, fog-wall, or 30 second gank.
 
 ## PLEASE READ BEFORE USING
 1. This script assumes that you have all Elden Ring mulitplayer items.
