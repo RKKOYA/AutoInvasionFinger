@@ -22,7 +22,7 @@ The script sends keystrokes without you having to actually press buttons or keys
 
 ## Installation
 1. Download AutoHotkey 2.0. This allows AutoHotkey scripts to be created and executed.
-2. Download the AutoHotkey script from this repository and place it anywhere in your file system. 
+2. Download the .ahk script from the releases sidebar and place it anywhere in your file system.
 
 ## How to Use
 1. Run Elden Ring and have your character ready to invade.
