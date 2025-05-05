@@ -13,7 +13,7 @@ The script sends keystrokes without you having to actually press buttons or keys
 
   ![image](https://github.com/user-attachments/assets/92ef7083-c2dc-499f-a505-d56ef8053705)
   ![image](https://github.com/user-attachments/assets/ede15e95-150d-45c8-bf8e-8b4cbd5c4998)
-  Lastly Escape key to view game options.
+  ```Lastly Escape key to view game options.```
 
    
 4. This script will use the invasion fingers from the multiplayer menu and nowhere else.
