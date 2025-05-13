@@ -1,4 +1,13 @@
 #Requires AutoHotkey v2.0
+
+; check if Elden Ring is running
+if not WinExist("ELDEN RING™")
+{
+	MsgBox "Have Elden Ring running before running this script. Terminating script."
+	ExitApp 0
+}
+
+; invasion loop
 isFingering := True
 i::
 {
@@ -59,6 +68,7 @@ UseRecursantFinger()
 	Sleep 3000
 }
 
+; key press functions
 PressEscape()
 {
 	Send "{Esc Down}"
