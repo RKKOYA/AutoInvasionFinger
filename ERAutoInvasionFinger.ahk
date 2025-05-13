@@ -7,8 +7,16 @@ if not WinExist("ELDEN RING™")
 	ExitApp 0
 }
 
+; terminate script if Elden Ring closes
+if WinWaitClose("ELDEN RING™")
+{
+	MsgBox "Elden Ring closed, therefore terminating script."
+	ExitApp 0
+}
+
 ; invasion loop
 isFingering := True
+#HotIf WinActive("ELDEN RING™")
 i::
 {
 	Global isFingering
@@ -24,18 +32,19 @@ i::
 	}
 }
 
-
+; stop invasion loop
+#HotIf WinActive("ELDEN RING™")
 l::
 {
 	Global isFingering
 	isFingering := False
 }
 
+#HotIf WinActive("ELDEN RING™")
 y::
 {
 	ExitApp 0
 }
-
 
 UseBloodyFinger()
 {
