@@ -8,7 +8,7 @@ The script sends keystrokes without you having to actually press buttons or keys
 ![AIF](https://github.com/user-attachments/assets/55812ab7-541b-43a6-b9c2-c0b20d265aaa)
 
 ## PLEASE READ BEFORE USING
-1. This script assumes that you have all Elden Ring mulitplayer items.
+1. This script assumes that you have all Elden Ring multiplayer items.
 2. This script also assumes the following keybinds:
 
   ![image](https://github.com/user-attachments/assets/92ef7083-c2dc-499f-a505-d56ef8053705)
