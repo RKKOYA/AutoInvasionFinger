@@ -9,6 +9,9 @@ The script sends keystrokes without you having to actually press buttons or keys
 
 ## PLEASE READ BEFORE USING
 1. This script assumes that you have all Elden Ring multiplayer items.
+
+  ![image](https://github.com/user-attachments/assets/aff92c41-fb05-40f5-b3d5-9d2893d0a8d0)
+
 2. This script also assumes the following keybinds:
 
   ![image](https://github.com/user-attachments/assets/92ef7083-c2dc-499f-a505-d56ef8053705)
@@ -16,9 +19,9 @@ The script sends keystrokes without you having to actually press buttons or keys
   ```Escape key to view game options.```
 
    
-4. This script will use the invasion fingers from the multiplayer menu and nowhere else.
-5. You must have AutoHotkey 2.0 installed to be able to run AutoHotkey scripts.
-6. This script has only been tested using Windows 11. Unexpected behavior may occur if this script is used with a different operating system.
+3. This script will use the invasion fingers from the multiplayer menu and nowhere else.
+4. You must have AutoHotkey 2.0 installed to be able to run AutoHotkey scripts.
+5. This script has only been tested using Windows 11. Unexpected behavior may occur if this script is used with a different operating system.
 
 ## Installation
 1. Download AutoHotkey 2.0. This allows AutoHotkey scripts to be created and executed.
